@@ -1,4 +1,4 @@
-# EVE_station_trading
+# EVE_Station_Trading
 
 EVE Online is an MMORPG set in space that is well known for its entirely player driven markets. In EVE Online, players can buy and sell in-game items through the market by setting up buy orders and sell orders. I was never good at the other more exciting features of the game, like combat and exploration, so I earned isk (the in-game currency) by trading items at the largest station in the EVE universe.
 
