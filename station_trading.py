@@ -1,7 +1,5 @@
-# Program: market.py
-# John Lee
-
-# Description: Pulls Jita 4-4 market data through the EVE API, and calculates margins, average volumes, profitability, and an efficiency score.
+# Pulls Jita 4-4 market data through the EVE API, and calculates margins, average volumes, profitability, and an efficiency score
+# by John Lee
 
 import csv
 import numpy as np
